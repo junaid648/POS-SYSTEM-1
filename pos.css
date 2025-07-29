@@ -1,0 +1,14 @@
+header {
+      background-color: #e0f7ff;
+    }
+    .logo {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+    .hidden { display: none; }
+    .clickable-category {
+      cursor: pointer;
+    }
+
+ .hidden { display: none; }
+    .cart-table th, .cart-table td { vertical-align: middle; }
